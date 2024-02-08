@@ -8,3 +8,13 @@ This project is a simple RESTful API for a blogging platform, built with Express
 # Prerequisites
 Node.js
 MongoDB
+
+
+# Configuration
+The server runs on port 8000 by default.
+MongoDB is expected to run locally on mongodb://localhost:27017/assignment3.
+
+
+# Running 
+
+Run the server by typing 'npm run start' 
